@@ -2,10 +2,10 @@
 
 <div align="center" >
 <a href="https://github.com/hydronautics-team"> 
-<img src="https://github.com/bmstu/bmstu/blob/b8280581ffcb9d17e9570a38dc39196d1e27f7ae/logos/hydronautics/hydronautics_logo.jpg" width="600"/></a>
+<img src="https://github.com/bmstu/bmstu/blob/b8280581ffcb9d17e9570a38dc39196d1e27f7ae/logos/hydronautics/hydronautics_logo.jpg" /></a>
 </div>
 
- 
+# 
 <div align="center" >
 <a href="https://github.com/hydronautics-team"> 
 <img src="https://github.com/bmstu/bmstu/blob/0055ad6448599aeb9a2f279b943fecf824bfad81/logos/hydronautics/hydronautics_header.png"/></a>
